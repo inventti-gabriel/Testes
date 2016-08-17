@@ -17,6 +17,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculadora.Library", "Calc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculadora.Library.Test", "CalculadoraTest\Calculadora.Library.Test.csproj", "{8D5CCB8F-62E6-4CBF-8801-E49F8199A602}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConwayGameOfLife", "ConwayGameOfLife\ConwayGameOfLife.csproj", "{DA573194-4BD8-49C0-9E62-1538BBF5DB31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConwayGameOfLifeTest", "ConwayGameOfLifeTest\ConwayGameOfLifeTest.csproj", "{0BBD7E9F-F5C1-40CB-93E5-F3F9482C9CAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConwayGameOfLifeMain", "ConwayGameOfLifeMain\ConwayGameOfLifeMain.csproj", "{CFDBDDC3-BB94-499F-8686-E51FCAA2D252}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +57,18 @@ Global
 		{8D5CCB8F-62E6-4CBF-8801-E49F8199A602}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8D5CCB8F-62E6-4CBF-8801-E49F8199A602}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8D5CCB8F-62E6-4CBF-8801-E49F8199A602}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA573194-4BD8-49C0-9E62-1538BBF5DB31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA573194-4BD8-49C0-9E62-1538BBF5DB31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA573194-4BD8-49C0-9E62-1538BBF5DB31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA573194-4BD8-49C0-9E62-1538BBF5DB31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BBD7E9F-F5C1-40CB-93E5-F3F9482C9CAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BBD7E9F-F5C1-40CB-93E5-F3F9482C9CAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BBD7E9F-F5C1-40CB-93E5-F3F9482C9CAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BBD7E9F-F5C1-40CB-93E5-F3F9482C9CAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFDBDDC3-BB94-499F-8686-E51FCAA2D252}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFDBDDC3-BB94-499F-8686-E51FCAA2D252}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFDBDDC3-BB94-499F-8686-E51FCAA2D252}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFDBDDC3-BB94-499F-8686-E51FCAA2D252}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
